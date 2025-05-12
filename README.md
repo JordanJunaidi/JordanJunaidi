@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello!
 
+My name is Jordan Junaidi, a student a Computer Science student at UC San Diego, on track to graduate in Spring 2027.
+
+### Contact
+
+- Email: jjunaidi@ucsd.edu
+- LinkedIn: https://www.linkedin.com/in/jordan-junaidi/
 <!--
 **JordanJunaidi/JordanJunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
