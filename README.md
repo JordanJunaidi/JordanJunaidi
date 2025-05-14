@@ -12,6 +12,9 @@ My name is Jordan Junaidi, a student a Computer Science student at UC San Diego 
 ### [Form Fitness](https://github.com/LAHacks25/form-fitness)
 3 friends and I created Form Fitness in 36 hours as our project for UCLA's annual Hackathon, LAHacks. It's an AI-powered, all-in-one fitness app that utilizies computer vision and machine learning to track exercise form in real-time and provide actionable feedback. Furthermore, the app can be used to track daily workouts and provide workout statistics. We used React and TypeScript on the frontend and Flask on the backend, with TensorFlow and Google MoveNet for the computer vision components. 
 
+### [Psyches of Color](https://github.com/TritonSE/Psyches-Of-Color-App)
+Created in a full team of developers and designers, Psyches of Color is a mobile app aimed at destigmatizing mental health and raising awareness through interactive activities. This project using React Native on the frontend along with MongoDB, Express.js, Node.js, and Firebase.
+
 ### [Quizski](https://github.com/JordanJunaidi/Quizki)
 Another hackathon project, this team created in 24 hours for UCSD's annual Hackathon, DiamondHacks, Quizski is a gamified learning platform that allows students to earn points by creating and studying flashcards, which can later be spent on a gacha system to collect Smiskis (a type of blind box collectible). For this project, we used the MERN stack with MongoDb, Express.js, React.js, and Node.js.
 
