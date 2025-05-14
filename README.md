@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Jordan Junaidi, a student a Computer Science student at UC San Diego, on track to graduate in Spring 2027.
+My name is Jordan Junaidi, a student a Computer Science student at UC San Diego graduating in Spring 2027.
 
 ## Contact
 
